@@ -1,0 +1,3 @@
+Launch Effect v2.192 Change Log
+
+[Fix] IE7/IE8 background and logo image not appearing bug
